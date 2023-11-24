@@ -1,4 +1,5 @@
-# README
+# SMTN
+The code of the model SMTN
 
 This folder contains three files:
 
